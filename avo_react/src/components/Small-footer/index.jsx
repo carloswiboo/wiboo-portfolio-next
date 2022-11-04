@@ -6,7 +6,7 @@ const SmallFooter = () => {
           <div className="container">
             <div className="copyrights text-center mt-0">
               <p>
-                © 2022 <br /> <a href='https://wiboo.com.mx'> wiboo.com.mx</a>
+                 © 2022 <br /> <a href='https://wiboo.com.mx'> wiboo.com.mx </a>
               </p>
             </div>
           </div>
