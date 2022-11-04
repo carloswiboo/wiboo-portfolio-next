@@ -5,6 +5,7 @@ import Split from "../../components/Split";
 import DarkTheme from "../../layouts/Dark";
 import addParlx from "../../common/addParlx";
 import initIsotope from "../../common/initIsotope";
+import ShowcasesOneCenter from "../../components/Showcases-one-center";
 
 const Demos = () => {
   const fixedHeader = React.useRef(null);
@@ -132,16 +133,16 @@ const Demos = () => {
           <div className="row justify-content-center">
             <div className="col-lg-9 col-md-11 static">
               <div className="capt mt-50">
-                <div className="parlx">
-                  <h2 className="custom-font">Creative Showcase Portfolio</h2>
+                <div className="parlx" style={{textAlign: 'center'}}>
+                  <h2 className="custom-font">Wiboo - Portfolio</h2>
                   <p>
-                    Creative way to showcase your works at their absolute best.
+                    Te presentamos los proyectos que hemos realizado
                   </p>
                 </div>
 
                 <div className="bactxt custom-font valign">
                   <span className="full-width" style={{ color: "transparent" }}>
-                    avo
+                    Wiboo
                   </span>
                 </div>
               </div>
@@ -149,16 +150,19 @@ const Demos = () => {
           </div>
         </div>
       </header>
+
+      <ShowcasesOneCenter />
+
       <div className="main-content" ref={MainContent}>
         <section className="masonery section-padding sub-bg">
           <div className="container-fluid">
             <div className="sec-head custom-font text-center">
               <Split>
                 <h3 className="wow words chars splitting" data-splitting>
-                  Home Pages.
+                  Proyectos
                 </h3>
               </Split>
-              <span className="tbg">Home Pages</span>
+              <span className="tbg">Proyectos</span>
             </div>
 
             <div className="row">

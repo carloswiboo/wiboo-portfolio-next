@@ -123,7 +123,7 @@ const ShowcasesOneCenter = () => {
             className="swiper-button-next swiper-nav-ctrl cursor-pointer"
           >
             <div>
-              <span className=" custom-font">Next Slide</span>
+              <span className=" custom-font">Siguiente</span>
             </div>
             <div>
               <i className="fas fa-chevron-right"></i>
@@ -137,7 +137,7 @@ const ShowcasesOneCenter = () => {
               <i className="fas fa-chevron-left"></i>
             </div>
             <div>
-              <span className="custom-font">Prev Slide</span>
+              <span className="custom-font">Anterior</span>
             </div>
           </div>
         </div>
