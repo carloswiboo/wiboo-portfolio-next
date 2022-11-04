@@ -16,7 +16,7 @@ const Navbar = ({ lr, nr, theme }) => {
   return (
     <nav
       ref={nr}
-      className={`navbar navbar-expand-lg change ${
+      className={`navbar d-none navbar-expand-lg change ${
         theme === "themeL" ? "light" : ""
       }`}
     >

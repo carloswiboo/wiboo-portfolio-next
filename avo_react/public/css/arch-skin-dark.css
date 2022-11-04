@@ -1,6 +1,6 @@
 body {
   font-family: "Open Sans", sans-serif;
-  background: #232323;
+  background: #000000;
 }
 a {
   cursor: pointer;
@@ -26,11 +26,11 @@ p {
 }
 
 .nav-scroll {
-  background: #232323;
+  background: #000000;
 }
 
 .navbar .dropdown-menu {
-  background: #2a2a2a;
+  background: #000000;
 }
 
 .navbar .navbar-nav .dropdown-item:hover,
@@ -52,7 +52,7 @@ p {
 }
 
 .main-content {
-  background: #232323;
+  background: #000000;
 }
 
 .color-font {

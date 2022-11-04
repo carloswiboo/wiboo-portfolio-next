@@ -64,25 +64,25 @@
 
 body {
   color: #fff;
-  background: #0c0f16;
+  background: #000000;
   line-height: 1.5;
   font-weight: 400;
   overflow-x: hidden !important;
   font-family: 'Poppins', sans-serif; }
   body.dark2 {
-    background: #1e2128; }
+    background: #000000; }
     body.dark2 .main-content {
-      background: #1e2128; }
+      background: #000000; }
     body.dark2 .sub-bg,
     body.dark2 .footer-half:after {
-      background: #21242b; }
+      background: #000000; }
     body.dark2 .nav-scroll,
     body.dark2 .footer-half .copyrights {
-      background: #252830;
-      border-color: #363b45; }
+      background: #000000;
+      border-color: #000000; }
 
 .main-content {
-  background: #0c0f16;
+  background: #000000;
   position: relative;
   z-index: 3; }
 
@@ -167,7 +167,7 @@ a, span {
     box-shadow: 0px 4px 30px -4px rgba(0, 0, 0, 0.2); }
 
 .bg-dark {
-  background-color: #141414 !important; }
+  background-color: #000000 !important; }
   .bg-dark .primery-shadow {
     -webkit-box-shadow: 0px 4px 40px -4px rgba(255, 255, 255, 0.2);
     box-shadow: 0px 4px 40px -4px rgba(255, 255, 255, 0.2); }

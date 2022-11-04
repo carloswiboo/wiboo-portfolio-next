@@ -1,44 +1,186 @@
 [
   {
     "id": 1,
-    "image": "/img/portfolio/mas/01.jpg",
-    "title": "Creativity Demand",
-    "tags": ["Design", "WordPress"],
+    "image": "/img/portfolio/full/YessicaCruz.png",
+    "title": "Yessica Cruz",
+    "tags": ["Design"],
+    "url": "https://www.yessicacruz.com/",
     "filterCategory": ["graphic"]
   },
   {
     "id": 2,
-    "image": "/img/portfolio/mas/02.jpg",
-    "title": "Through The Breaking",
-    "tags": ["Design", "WordPress"],
-    "filterCategory": ["web"]
+    "image": "/img/portfolio/full/AldamaRestaurant.png",
+    "title": "Aldama Restaurant",
+    "tags": ["Design"],
+    "url": "https://aldamarestaurantbk.com/",
+    "filterCategory": ["graphic"]
   },
   {
     "id": 3,
-    "image": "/img/portfolio/mas/03.jpg",
-    "title": "Create With Creatives",
-    "tags": ["Design", "WordPress"],
-    "filterCategory": ["brand"]
+    "image": "/img/portfolio/full/Aparmex.png",
+    "title": "Aparmex",
+    "tags": ["Design"],
+    "url": "https://aparmex.com/",
+    "filterCategory": ["graphic"]
   },
   {
     "id": 4,
-    "image": "/img/portfolio/mas/04.jpg",
-    "title": "Energies of Love",
-    "tags": ["Design", "WordPress"],
+    "image": "/img/portfolio/full/AutopNorte.png",
+    "title": "Autop Norte",
+    "tags": ["Design"],
+    "url": "https://suzukipalmas.com.mx/seminuevos/",
     "filterCategory": ["graphic"]
   },
   {
     "id": 5,
-    "image": "/img/portfolio/mas/05.jpg",
-    "title": "See It Yourself",
-    "tags": ["Design", "WordPress"],
-    "filterCategory": ["web"]
+    "image": "/img/portfolio/full/AutopSur.png",
+    "title": "Autop Sur",
+    "tags": ["Design"],
+    "url": "https://autop.com.mx/",
+    "filterCategory": ["graphic"]
   },
   {
     "id": 6,
-    "image": "/img/portfolio/mas/06.jpg",
-    "title": "Blast From The Past",
-    "tags": ["Design", "WordPress"],
-    "filterCategory": ["brand"]
+    "image": "/img/portfolio/full/AutopIrapuato.png",
+    "title": "Autop Irapuato",
+    "tags": ["Design"],
+    "url": "https://autopirapuato.com.mx/",
+    "filterCategory": ["graphic"]
+  },
+  {
+    "id": 7,
+    "image": "/img/portfolio/full/CarlosEstrada.png",
+    "title": "Carlos Estrada",
+    "tags": ["Design"],
+    "url": "https://carlosestrada.com.mx/",
+    "filterCategory": ["graphic"]
+  },
+  {
+    "id": 8,
+    "image": "/img/portfolio/full/Digitalia.png",
+    "title": "Digitalia",
+    "tags": ["Design"],
+    "url": "https://digitalia.mx/",
+    "filterCategory": ["graphic"]
+  },
+  {
+    "id": 9,
+    "image": "/img/portfolio/full/EttHem.png",
+    "title": "Ett-Hem",
+    "tags": ["Design"],
+    "url": "https://etthem.mx/",
+    "filterCategory": ["graphic"]
+  },
+  {
+    "id": 10,
+    "image": "/img/portfolio/full/Fromlares.png",
+    "title": "Fromlares",
+    "tags": ["Design"],
+    "url": "https://fromlares.com/",
+    "filterCategory": ["graphic"]
+  },
+  {
+    "id": 11,
+    "image": "/img/portfolio/full/Gante.png",
+    "title": "Joyería Gante",
+    "tags": ["Design"],
+    "url": "https://joyeriagante.com/",
+    "filterCategory": ["graphic"]
+  },
+  {
+    "id": 12,
+    "image": "/img/portfolio/full/GestoresUrbanos.png",
+    "title": "Gestores Urbanos",
+    "tags": ["Design"],
+    "url": "https://gestoresurbanos.org/",
+    "filterCategory": ["graphic"]
+  },
+  {
+    "id": 13,
+    "image": "/img/portfolio/full/Index.png",
+    "title": "Index Alimentos",
+    "tags": ["Design"],
+    "url": "https://www.indexalimentos.com.mx/",
+    "filterCategory": ["graphic"]
+  },
+  {
+    "id": 14,
+    "image": "/img/portfolio/full/JollyHour.png",
+    "title": "Jolly Hour",
+    "tags": ["Design"],
+    "url": "https://www.JollyHour.com.mx/",
+    "filterCategory": ["graphic"]
+  },
+  {
+    "id": 15,
+    "image": "/img/portfolio/full/MariaZimmer.png",
+    "title": "Maria Zimmer",
+    "tags": ["Design"],
+    "url": "https://mariazimmer.com/",
+    "filterCategory": ["graphic"]
+  },
+  {
+    "id": 15,
+    "image": "/img/portfolio/full/Mestizal.png",
+    "title": "Mestizal",
+    "tags": ["Design"],
+    "url": "https://Mestizal.com.mx/",
+    "filterCategory": ["graphic"]
+  },
+  {
+    "id": 16,
+    "image": "/img/portfolio/full/Operadores.com.png",
+    "title": "Operadores.com",
+    "tags": ["Design"],
+    "url": "https://operadores.com/",
+    "filterCategory": ["graphic"]
+  },
+  {
+    "id": 17,
+    "image": "/img/portfolio/full/SuzukiPalmasNorte.png",
+    "title": "Suzuki Palmas Norte",
+    "tags": ["Design"],
+    "url": "https://suzukipalmas.com.mx/",
+    "filterCategory": ["graphic"]
+  },
+  {
+    "id": 17,
+    "image": "/img/portfolio/full/SuzukiPalmasNorte.png",
+    "title": "Suzuki Palmas Sur",
+    "tags": ["Design"],
+    "url": "https://suzukipalmassur.com.mx/",
+    "filterCategory": ["graphic"]
+  },
+  {
+    "id": 17,
+    "image": "/img/portfolio/full/SuzukiPalmasNorte.png",
+    "title": "Suzuki Palmas Irapuato",
+    "tags": ["Design"],
+    "url": "https://suzukiirapuato.com.mx/",
+    "filterCategory": ["graphic"]
+  },
+  {
+    "id": 18,
+    "image": "/img/portfolio/full/Tharaa.png",
+    "title": "Tharaa",
+    "tags": ["Design"],
+    "url": "https://www.tharaacosmetics.com/",
+    "filterCategory": ["graphic"]
+  },
+  {
+    "id": 19,
+    "image": "/img/portfolio/full/Unima.png",
+    "title": "UNIMA",
+    "tags": ["Design"],
+    "url": "https://www.weareunima.com/",
+    "filterCategory": ["graphic"]
+  },
+  {
+    "id": 20,
+    "image": "/img/portfolio/full/Wiboo.png",
+    "title": "Wiboo",
+    "tags": ["Design"],
+    "url": "https://www.wiboo.com.mx/",
+    "filterCategory": ["graphic"]
   }
 ]

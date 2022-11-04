@@ -49,22 +49,17 @@ const Works3Dark = () => {
     <DarkTheme>
       <Navbar nr={navbarRef} lr={logoRef} />
       <header
-        ref={fixedHeader}
-        className="works-header fixed-slider hfixd valign"
       >
         <div className="container">
           <div className="row justify-content-center">
             <div className="col-lg-9 col-md-11 static">
               <div className="capt mt-50">
-                <div className="parlx">
-                  <h2 className="custom-font">My amazing works</h2>
+                <div className="parlx" style={{textAlign: 'center'}}>
+                  <h2 className="custom-font">Wiboo</h2>
+                  <h2 className="custom-font">Nuestros Proyectos</h2>
                   <p>
-                    Creative way to showcase your works at their absolute best.
+                    Proyectos Creativos en los que hemos participado
                   </p>
-                </div>
-
-                <div className="bactxt custom-font valign">
-                  <span className="full-width">Works</span>
                 </div>
               </div>
             </div>

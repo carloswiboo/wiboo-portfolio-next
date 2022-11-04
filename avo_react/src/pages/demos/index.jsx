@@ -151,7 +151,6 @@ const Demos = () => {
         </div>
       </header>
 
-      <ShowcasesOneCenter />
 
       <div className="main-content" ref={MainContent}>
         <section className="masonery section-padding sub-bg">

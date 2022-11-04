@@ -81,8 +81,8 @@ const PortfolioCustomColumn = ({
                 data-wow-delay=".4s"
               >
                 <div className="item-img">
-                  <Link href="/project-details2/project-details2-dark">
-                    <a className="imago wow">
+                  <Link href={item.url} passHref>
+                    <a className="imago wow" target="_blank" rel="noopener noreferrer">
                       <img src={item.image} alt="image" />
                       <div className="item-img-overlay"></div>
                     </a>
