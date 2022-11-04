@@ -3,7 +3,7 @@
     "id": 1,
     "image": "/img/portfolio/full/YessicaCruz.png",
     "title": "Yessica Cruz",
-    "tags": ["Design"],
+    "tags": ["Design", "Development"],
     "url": "https://www.yessicacruz.com/",
     "filterCategory": ["graphic"]
   },
@@ -11,7 +11,7 @@
     "id": 2,
     "image": "/img/portfolio/full/AldamaRestaurant.png",
     "title": "Aldama Restaurant",
-    "tags": ["Design"],
+    "tags": ["Design", "Development"],
     "url": "https://aldamarestaurantbk.com/",
     "filterCategory": ["graphic"]
   },
@@ -19,7 +19,7 @@
     "id": 3,
     "image": "/img/portfolio/full/Aparmex.png",
     "title": "Aparmex",
-    "tags": ["Design"],
+    "tags": ["Design", "Development"],
     "url": "https://aparmex.com/",
     "filterCategory": ["graphic"]
   },
@@ -27,7 +27,7 @@
     "id": 4,
     "image": "/img/portfolio/full/AutopNorte.png",
     "title": "Autop Norte",
-    "tags": ["Design"],
+    "tags": ["Design", "Development"],
     "url": "https://suzukipalmas.com.mx/seminuevos/",
     "filterCategory": ["graphic"]
   },
@@ -35,7 +35,7 @@
     "id": 5,
     "image": "/img/portfolio/full/AutopSur.png",
     "title": "Autop Sur",
-    "tags": ["Design"],
+    "tags": ["Design", "Development"],
     "url": "https://autop.com.mx/",
     "filterCategory": ["graphic"]
   },
@@ -43,7 +43,7 @@
     "id": 6,
     "image": "/img/portfolio/full/AutopIrapuato.png",
     "title": "Autop Irapuato",
-    "tags": ["Design"],
+    "tags": ["Design", "Development"],
     "url": "https://autopirapuato.com.mx/",
     "filterCategory": ["graphic"]
   },
@@ -51,7 +51,7 @@
     "id": 7,
     "image": "/img/portfolio/full/CarlosEstrada.png",
     "title": "Carlos Estrada",
-    "tags": ["Design"],
+    "tags": ["Design", "Development"],
     "url": "https://carlosestrada.com.mx/",
     "filterCategory": ["graphic"]
   },
@@ -59,7 +59,7 @@
     "id": 8,
     "image": "/img/portfolio/full/Digitalia.png",
     "title": "Digitalia",
-    "tags": ["Design"],
+    "tags": ["Design", "Development"],
     "url": "https://digitalia.mx/",
     "filterCategory": ["graphic"]
   },
@@ -67,7 +67,7 @@
     "id": 9,
     "image": "/img/portfolio/full/EttHem.png",
     "title": "Ett-Hem",
-    "tags": ["Design"],
+    "tags": ["Design", "Development"],
     "url": "https://etthem.mx/",
     "filterCategory": ["graphic"]
   },
@@ -75,7 +75,7 @@
     "id": 10,
     "image": "/img/portfolio/full/Fromlares.png",
     "title": "Fromlares",
-    "tags": ["Design"],
+    "tags": ["Design", "Development"],
     "url": "https://fromlares.com/",
     "filterCategory": ["graphic"]
   },
@@ -83,7 +83,7 @@
     "id": 11,
     "image": "/img/portfolio/full/Gante.png",
     "title": "Joyería Gante",
-    "tags": ["Design"],
+    "tags": ["Design", "Development"],
     "url": "https://joyeriagante.com/",
     "filterCategory": ["graphic"]
   },
@@ -91,7 +91,7 @@
     "id": 12,
     "image": "/img/portfolio/full/GestoresUrbanos.png",
     "title": "Gestores Urbanos",
-    "tags": ["Design"],
+    "tags": ["Design", "Development"],
     "url": "https://gestoresurbanos.org/",
     "filterCategory": ["graphic"]
   },
@@ -99,7 +99,7 @@
     "id": 13,
     "image": "/img/portfolio/full/Index.png",
     "title": "Index Alimentos",
-    "tags": ["Design"],
+    "tags": ["Design", "Development"],
     "url": "https://www.indexalimentos.com.mx/",
     "filterCategory": ["graphic"]
   },
@@ -107,7 +107,7 @@
     "id": 14,
     "image": "/img/portfolio/full/JollyHour.png",
     "title": "Jolly Hour",
-    "tags": ["Design"],
+    "tags": ["Design", "Development"],
     "url": "https://www.JollyHour.com.mx/",
     "filterCategory": ["graphic"]
   },
@@ -115,7 +115,7 @@
     "id": 15,
     "image": "/img/portfolio/full/MariaZimmer.png",
     "title": "Maria Zimmer",
-    "tags": ["Design"],
+    "tags": ["Design", "Development"],
     "url": "https://mariazimmer.com/",
     "filterCategory": ["graphic"]
   },
@@ -123,7 +123,7 @@
     "id": 15,
     "image": "/img/portfolio/full/Mestizal.png",
     "title": "Mestizal",
-    "tags": ["Design"],
+    "tags": ["Design", "Development"],
     "url": "https://Mestizal.com.mx/",
     "filterCategory": ["graphic"]
   },
@@ -131,7 +131,7 @@
     "id": 16,
     "image": "/img/portfolio/full/Operadores.com.png",
     "title": "Operadores.com",
-    "tags": ["Design"],
+    "tags": ["Design", "Development"],
     "url": "https://operadores.com/",
     "filterCategory": ["graphic"]
   },
@@ -139,7 +139,7 @@
     "id": 17,
     "image": "/img/portfolio/full/SuzukiPalmasNorte.png",
     "title": "Suzuki Palmas Norte",
-    "tags": ["Design"],
+    "tags": ["Design", "Development"],
     "url": "https://suzukipalmas.com.mx/",
     "filterCategory": ["graphic"]
   },
@@ -147,7 +147,7 @@
     "id": 17,
     "image": "/img/portfolio/full/SuzukiPalmasNorte.png",
     "title": "Suzuki Palmas Sur",
-    "tags": ["Design"],
+    "tags": ["Design", "Development"],
     "url": "https://suzukipalmassur.com.mx/",
     "filterCategory": ["graphic"]
   },
@@ -155,7 +155,7 @@
     "id": 17,
     "image": "/img/portfolio/full/SuzukiPalmasNorte.png",
     "title": "Suzuki Palmas Irapuato",
-    "tags": ["Design"],
+    "tags": ["Design", "Development"],
     "url": "https://suzukiirapuato.com.mx/",
     "filterCategory": ["graphic"]
   },
@@ -163,7 +163,7 @@
     "id": 18,
     "image": "/img/portfolio/full/Tharaa.png",
     "title": "Tharaa",
-    "tags": ["Design"],
+    "tags": ["Design", "Development"],
     "url": "https://www.tharaacosmetics.com/",
     "filterCategory": ["graphic"]
   },
@@ -171,7 +171,7 @@
     "id": 19,
     "image": "/img/portfolio/full/Unima.png",
     "title": "UNIMA",
-    "tags": ["Design"],
+    "tags": ["Design", "Development"],
     "url": "https://www.weareunima.com/",
     "filterCategory": ["graphic"]
   },
@@ -179,7 +179,7 @@
     "id": 20,
     "image": "/img/portfolio/full/Wiboo.png",
     "title": "Wiboo",
-    "tags": ["Design"],
+    "tags": ["Design", "Development"],
     "url": "https://www.wiboo.com.mx/",
     "filterCategory": ["graphic"]
   }
