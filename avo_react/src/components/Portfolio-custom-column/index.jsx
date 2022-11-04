@@ -71,18 +71,18 @@ const PortfolioCustomColumn = ({
                     : column === 2
                     ? "col-md-6"
                     : "col-12"
-                } items ${item.filterCategory} wow fadeInUp ${
+                } items ${item.filterCategory}  ${
                   item.id === 2 && column == 3
                     ? "lg-mr"
                     : item.id === 1 && column == 2
                     ? "lg-mr"
                     : ""
                 }`}
-                data-wow-delay=".4s"
+                
               >
                 <div className="item-img">
                   <Link href={item.url} passHref>
-                    <a className="imago wow" target="_blank" rel="noopener noreferrer">
+                    <a className=" wow" target="_blank" rel="noopener noreferrer">
                       <img src={item.image} alt="image" />
                       <div className="item-img-overlay"></div>
                     </a>
@@ -93,7 +93,7 @@ const PortfolioCustomColumn = ({
                   <span>
                     {item.tags.map((tag, index) => (
                       <React.Fragment key={index * 3}>
-                        <Link href="/works4/works4-dark">{tag}</Link>
+                        <span>{tag}</span>
                         {index == item.tags.length - 1 ? "" : ","}
                       </React.Fragment>
                     ))}
