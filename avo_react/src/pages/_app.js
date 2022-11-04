@@ -10,8 +10,8 @@ function MyApp({ Component, pageProps }) {
   return (
     <>
       <Head>
-        <title>Avo</title>
-        <link rel="icon" href="/img/favicon.ico" />
+        <title>Wiboo Proyectos</title>
+        <link rel="icon" href="https://wiboo.com.mx/wp-content/uploads/2022/08/cropped-WibooIcon-32x32.png" />
       </Head>
       <Cursor />
       <LoadingScreen />
